@@ -1,0 +1,15 @@
+.dropdown {
+    background-color:#002B2B;
+    padding: 10px;
+    max-width: 850px;
+    max-height: 200px;
+    margin:20px;
+    border-radius: 4px;
+    box-shadow: 0 0 13px rgba(3, 10, 17, .5);
+    margin-right: auto;
+    margin-left: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+body {
+    background-color: darkslategrey;
+}
