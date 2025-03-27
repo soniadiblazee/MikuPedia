@@ -1,15 +1,44 @@
 .dropdown {
     background-color:#002B2B;
     padding: 10px;
-    max-width: 850px;
+    max-width: 2000px;
     max-height: 200px;
     margin:20px;
     border-radius: 4px;
     box-shadow: 0 0 13px rgba(3, 10, 17, .5);
     margin-right: auto;
     margin-left: auto;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: #5B6067 1px solid;
 }
+
+
 body {
     background-color: darkslategrey;
+}
+
+
+table {
+    border:#EE1B80 1px double;
+    border-radius: 5px;
+}
+th {
+    background-color: #002B2B;
+    color:#94d2d3;
+    font-style:oblique;
+    height:50px;
+}
+td {
+    background-color: #D2D2D8;
+    vertical-align: top;
+    padding: 20px;
+    border: #5B6067 3px solid;
+}
+table, td, th {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: auto;
+    max-width: 190px;
+    max-height: 3000px;
+    min-height: 700px;
+    border-radius: 4px;
 }
