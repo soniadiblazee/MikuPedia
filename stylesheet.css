@@ -42,3 +42,7 @@ table, td, th {
     min-height: 700px;
     border-radius: 4px;
 }
+.update-number {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#002B2B;
+}
