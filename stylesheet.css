@@ -53,3 +53,9 @@ footer {
     padding: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+@media screen and (max-width: 1000px) {
+    .column {
+      width: 100%;
+    }
+  }
